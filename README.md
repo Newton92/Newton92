@@ -1,6 +1,6 @@
 ![Header](https://capsule-render.vercel.app/api?type=waving&height=200&text=PELBA%20JEREMIE%20NGOURMISSALA&fontAlign=50&fontAlignY=40&color=0:ea8c21,100:42210b&fontColor=ffffff&fontSize=30&desc=Fullstack%20Developer%20|%20Trainer%20|%208+%20Years%20Experience&descAlignY=60&descAlign=50)
 
-# 👋 Salut, je suis **PELBA JEREMIE NGOURMISSALA** (Newton92)
+# **PELBA JEREMIE NGOURMISSALA** (Newton92)
 
 ### **Développeur Fullstack | Formateur en Finance et Excel VBA | 8+ ans d’expérience**
 
